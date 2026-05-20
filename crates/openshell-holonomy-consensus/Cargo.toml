@@ -8,4 +8,4 @@ license = "Apache-2.0"
 authors = ["SuperInstance <forgemaster@superinstance.com>"]
 
 [dependencies]
-holonomy-consensus = { path = "../holonomy-consensus" }
+holonomy-consensus = { git = "https://github.com/SuperInstance/holonomy-consensus", branch = "main" }
