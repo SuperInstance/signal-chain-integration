@@ -1,0 +1,3 @@
+[workspace]
+members = ["crates/holonomy-consensus", "crates/openshell-holonomy-consensus"]
+resolver = "2"

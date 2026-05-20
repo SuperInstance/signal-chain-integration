@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "holonomy-consensus",
+  "openshell-holonomy-consensus",
+]
+resolver = "2"

@@ -1,0 +1,11 @@
+[package]
+name = "openshell-holonomy-consensus"
+version = "0.2.0"
+edition = "2021"
+description = "OpenShell wrapper for holonomy-consensus — Zero-holonomy consensus for fleet coordination"
+repository = "https://github.com/SuperInstance/signal-chain-integration"
+license = "Apache-2.0"
+authors = ["SuperInstance <forgemaster@superinstance.com>"]
+
+[dependencies]
+holonomy-consensus = { path = "../holonomy-consensus" }
